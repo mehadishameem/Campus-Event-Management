@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Campus Event Management" id="3CFA1BA0-AF4B-27FF-0C67-0424F67915A3" version="3.5">
+<createdBy>Aquib Javed</createdBy>
+<createdTime>2024-05-14 17:29:53 UTC</createdTime>
+<ownerDesignName>Campus Event Management</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3CFA1BA0-AF4B-27FF-0C67-0424F67915A3</designId>
+</OSDM_Design>
